@@ -1,11 +1,4 @@
 # EXPERIMENT--01-ALP-FOR-8086
-### Name :Mageshkumar U
-### Roll no :212224240085
-### Date of experiment : 31-01-2026
-
-
-
-
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
